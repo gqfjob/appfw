@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Menu>
+	<menuitem label="文本共享" instanceName="mdShareText" />
+	<menuitem label="在线练习" instanceName="mdSetPoll" />
+	<!-- <menuitem label="网页共览" instanceName="mdShareWeb" /> -->
+	<menuitem label="发送通知" instanceName="mdSendNotice" />
+	<menuitem type="separator" />
+	<menuitem label="参数设置" instanceName="mdRoomSetting" />
+	<menuitem label="公聊记录" instanceName="mdHistroyPublic" />
+	<menuitem label="私聊记录" instanceName="mdHistroyPrivate" />
+	<menuitem label="答疑记录" instanceName="mdHistroyQA" />
+	<menuitem type="separator" />
+	<menuitem label="关闭课堂" instanceName="mdCloseRoom" />
+</Menu>

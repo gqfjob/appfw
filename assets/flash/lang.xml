@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Root>
+	<Vote>
+		<Title>在线练习</Title>
+		<Start>启动练习</Start>
+		<End>关闭练习</End>
+		<Upload>上传习题</Upload>
+		<Min>最小化</Min>
+		<Refresh>刷新练习库</Refresh>
+		<Result>查看练习结果</Result>
+		<Library>我的练习库</Library>
+	</Vote>
+</Root>

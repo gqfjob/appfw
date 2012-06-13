@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<mix>index.php?c=meetting&m=mix</mix>
+	<share>index.php?c=meetting&m=share</share>
+	<logout>index.php?c=meetting&m=logout</logout>
+	<checklogin>index.php?c=meetting&m=checklogin</checklogin>
+
+	<getendtime>index.php?c=meetting&m=getendtime</getendtime>
+	<getmydoc>index.php?c=meetting&m=getmydoc</getmydoc>
+	<getmymp3>index.php?c=meetting&m=getmymp3</getmymp3>
+	<getmyvote>index.php?c=meetting&m=getmyvote</getmyvote>
+	<getoutfile>index.php?c=meetting&m=getoutfile</getoutfile>
+	<getpoll>index.php?c=meetting&m=getpoll</getpoll>
+
+	<sendonline>index.php?c=meetting&m=sendonline</sendonline>
+	<sendstatus>index.php?c=meetting&m=sendstatus</sendstatus>
+	<sendcloseroom>index.php?c=meetting&m=sendcloseroom</sendcloseroom>
+	<sendcreatpoll>index.php?c=meetting&m=sendcreatpoll</sendcreatpoll>
+	<sendresult>index.php?c=meetting&m=sendresult</sendresult>
+	<sendclosepoll>index.php?c=meetting&m=sendclosepoll</sendclosepoll>
+	<sendsavecast>index.php?c=meetting&m=sendsavecast</sendsavecast>
+
+	<classvotelist>index.php?c=meetting&m=classvotelist</classvotelist>
+	<mp3list>index.php?c=meetting&m=mp3list</mp3list>
+	<pptlist>index.php?c=meetting&m=pptlist</pptlist>
+	<polllist>index.php?c=meetting&m=polllist</polllist>
+</config>
